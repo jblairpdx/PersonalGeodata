@@ -857,9 +857,9 @@
       "properties": {
         "name": "Jasper Park",
         "activity": "to visit",
-        "activity_date": ""
+        "activity_date": "",
         "address": "",
-        "website": "http://eugene-or.gov/Facilities/Facility/Details/55"
+        "website": "http://eugene-or.gov/Facilities/Facility/Details/55",
         "notes": "$5 day use parking fee."
       },
       "geometry": {
