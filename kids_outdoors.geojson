@@ -866,6 +866,21 @@
         "type": "Point",
         "coordinates": [-122.90213227272032, 43.98852279627229]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zumwalt Park",
+        "activity": "to visit",
+        "activity_date": "",
+        "address": "",
+        "website": "http://lanecounty.org/departments/pw/parks/pages/CountyParkDetail.aspx?ParkID=174&siteName=Zumwalt",
+        "notes": "No water; no winter toilets."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.307346168384, 44.0653633194222]
+      }
     }
   ]
 }
