@@ -6,27 +6,17 @@
       "properties": {
         "name": "Spencer Butte Summit Trail",
         "activity": "hike",
-        "activity_date": "2016-01-UNK"
+        "activity_date": "2016-01-UNK",
+        "address": "",
+        "website": ""
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [
-            -123.10175299644469,
-            43.98024919760573
-          ],
-          [
-            -123.10151696205139,
-            43.98027428840466
-          ],
-          [
-            -123.10132920742035,
-            43.98077417211205
-          ],
-          [
-            -123.10104221105576,
-            43.980814703038995
-          ],
+          [-123.10175299644469, 43.98024919760573],
+          [-123.10151696205139, 43.98027428840466],
+          [-123.10132920742035, 43.98077417211205],
+          [-123.10104221105576, 43.980814703038995],
           [
             -123.1009456515312,
             43.981001916961525
@@ -444,6 +434,9 @@
         "name": "Skinner Butte Trail - Northside",
         "activity": "hike",
         "activity_date": "2016-01-UNK"
+        "address": "",
+        "website": "http://eugene-or.gov/Facilities/Facility/Details/55",
+        "notes": ""
       },
       "geometry": {
         "type": "LineString",
@@ -857,6 +850,21 @@
             44.061194778107506
           ]
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jasper Park",
+        "activity": "to visit",
+        "activity_date": ""
+        "address": "",
+        "website": "http://eugene-or.gov/Facilities/Facility/Details/55"
+        "notes": "$5 day use parking fee."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.90213227272032, 43.98852279627229]
       }
     }
   ]
