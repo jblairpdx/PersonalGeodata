@@ -6,7 +6,8 @@
       "properties": {
         "name": "Spencer Butte Summit Trail",
         "activity": "hike",
-        "activity_date": "2016-01-UNK",
+        "activity_date": "2016-01-16",
+        "participants": ["Ramona", "Emmalyn", "Jacob", "Leslie"],
         "address": "",
         "website": ""
       },
@@ -424,7 +425,8 @@
       "properties": {
         "name": "Skinner Butte Trails",
         "activity": "hike",
-        "activity_date": "2016-01-UNK",
+        "activity_date": "2016-01-23",
+        "participants": ["Ramona", "Emmalyn", "Jacob", "Leslie"],
         "address": "",
         "website": "",
         "notes": "Also played at RiverPlay."
@@ -845,7 +847,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Chip Ross Park",
+        "activity": "hike",
+        "activity_date": "2016-01-30",
+        "participants": ["Ramona", "Imogen", "Emmalyn", "Jacob", "Leslie", "Alicia", "Nick"],
+        "address": "End of NW Lester Ave, Corvallis, OR 97330",
+        "website": "http://www.corvallisoregon.gov/index.aspx?page=1191",
+        "notes": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1138,6 +1148,7 @@
         "name": "Dorris Ranch Trails",
         "activity": "hike",
         "activity_date": "2016-02-07",
+        "participants": ["Ramona", "Imogen", "Emmalyn", "Jacob", "Leslie", "Alicia", "Nick"],
         "address": "205 Dorris St, Springfield, OR 97477",
         "website": "http://willamalane.org/park/dorris-ranch/",
         "notes": ""
