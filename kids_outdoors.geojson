@@ -431,11 +431,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Skinner Butte Trail - Northside",
+        "name": "Dorris Ranch Trails",
         "activity": "hike",
-        "activity_date": "2016-01-UNK",
-        "address": "",
-        "website": "http://eugene-or.gov/Facilities/Facility/Details/55",
+        "activity_date": "2016-02-07",
+        "address": "205 Dorris St, Springfield, OR 97477",
+        "website": "http://willamalane.org/park/dorris-ranch/",
         "notes": ""
       },
       "geometry": {
