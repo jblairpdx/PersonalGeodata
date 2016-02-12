@@ -431,12 +431,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dorris Ranch Trails",
+        "name": "Skinner Butte Trails",
         "activity": "hike",
-        "activity_date": "2016-02-07",
-        "address": "205 Dorris St, Springfield, OR 97477",
-        "website": "http://willamalane.org/park/dorris-ranch/",
-        "notes": ""
+        "activity_date": "2016-01-UNK",
+        "address": "",
+        "website": "",
+        "notes": "Also played at RiverPlay."
       },
       "geometry": {
         "type": "LineString",
