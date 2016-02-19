@@ -1682,6 +1682,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bohemia Saddle Park",
+        "activity": "to visit",
+        "activity_date": "",
+        "address": "",
+        "website": "http://eugene-or.gov/Facilities/Facility/Details/55",
+        "notes": "Snowed-in during winter. Last handful of miles on road is rough. Trail to Bohemia Mountain peak. Gravel road to Fairview Mountain peak. Fairview fire lookout is rentable, $50/night."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.6558545231819, 43.58168877445638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Jasper Park",
         "activity": "to visit",
         "activity_date": "",
