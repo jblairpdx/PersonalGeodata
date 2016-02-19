@@ -21,14 +21,8 @@
           [-123.1009456515312, 43.981001916961525],
           [-123.10076594352722, 43.98111385902496],
           [-123.10051649808884, 43.9810868385462],
-          [
-            -123.10036361217499,
-            43.9811698299775
-          ],
-          [
-            -123.10017317533492,
-            43.981065608161416
-          ],
+          [-123.10036361217499, 43.9811698299775],
+          [-123.10017317533492, 43.981065608161416],
           [
             -123.10009002685545,
             43.98126633149594
@@ -1686,12 +1680,27 @@
         "activity": "to visit",
         "activity_date": "",
         "address": "",
-        "website": "http://eugene-or.gov/Facilities/Facility/Details/55",
+        "website": "",
         "notes": "Snowed-in during winter. Last handful of miles on road is rough. Trail to Bohemia Mountain peak. Gravel road to Fairview Mountain peak. Fairview fire lookout is rentable, $50/night."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-122.6558545231819, 43.58168877445638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Gardens Park",
+        "activity": "to visit",
+        "activity_date": "",
+        "address": "",
+        "website": "https://eugene-or.gov/Facilities/Facility/Details/68",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1775951385498, 44.09189460662904]
       }
     },
     {
