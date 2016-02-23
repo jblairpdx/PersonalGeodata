@@ -1706,6 +1706,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fairmount Park",
+        "activity": "to visit",
+        "activity_date": "",
+        "address": "E. 15th Ave. & Fairmount Blvd.",
+        "website": "https://www.eugene-or.gov/Facilities/Facility/Details/98",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.06050598621368, 44.042902583332996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Golden Gardens Park",
         "activity": "to visit",
         "activity_date": "",
