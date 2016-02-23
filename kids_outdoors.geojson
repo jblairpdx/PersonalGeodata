@@ -1676,6 +1676,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bethel Community Park",
+        "activity": "to visit",
+        "activity_date": "",
+        "address": "",
+        "website": "https://www.eugene-or.gov/Facilities/Facility/Details/36",
+        "notes": "Playground."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.19878190755844, 44.07950444498217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bohemia Saddle Park",
         "activity": "to visit",
         "activity_date": "",
