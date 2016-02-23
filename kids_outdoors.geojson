@@ -1711,7 +1711,7 @@
         "activity_date": "",
         "address": "E. 15th Ave. & Fairmount Blvd.",
         "website": "https://www.eugene-or.gov/Facilities/Facility/Details/98",
-        "notes": ""
+        "notes": "Playground."
       },
       "geometry": {
         "type": "Point",
@@ -1740,12 +1740,27 @@
         "activity": "to visit",
         "activity_date": "",
         "address": "",
-        "website": "http://eugene-or.gov/Facilities/Facility/Details/55",
+        "website": "",
         "notes": "$5 day use parking fee."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-122.90213227272032, 43.98852279627229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lively Park",
+        "activity": "to visit",
+        "activity_date": "",
+        "address": "",
+        "website": "http://willamalane.org/park/lively-park/",
+        "notes": "Playground."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.91911602020264, 44.05663623402154]
       }
     },
     {
